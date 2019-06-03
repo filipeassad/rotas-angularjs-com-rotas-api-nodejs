@@ -86,5 +86,6 @@ require('./web/routes/routesWeb.js')(app);
 Agora é só configurar as rotas do seu projeto angularjs e ser feliz.
 
 > Rotas do angularjs no projeto: web/scripts/ng-routes.js
+
 > Paginas criadas no projeto: web/pages/
 
